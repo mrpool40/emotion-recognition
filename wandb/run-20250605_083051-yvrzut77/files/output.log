@@ -1,0 +1,6 @@
+Found 28709 images belonging to 7 classes.
+Found 7178 images belonging to 7 classes.
+[34m[1mwandb[0m: [33mWARNING[0m WandbCallback is deprecated and will be removed in a future release. Please use the WandbMetricsLogger, WandbModelCheckpoint, and WandbEvalCallback callbacks instead. See https://docs.wandb.ai/guides/integrations/keras for more information.
+[34m[1mwandb[0m: [33mWARNING[0m The save_model argument by default saves the model in the HDF5 format that cannot save custom objects like subclassed models and custom layers. This behavior will be deprecated in a future release in favor of the SavedModel format. Meanwhile, the HDF5 model is saved as W&B files and the SavedModel as W&B Artifacts.
+Epoch 1/50
+285/898 [========>.....................] - ETA: 9:12 - loss: 1.7758 - accuracy: 0.2848

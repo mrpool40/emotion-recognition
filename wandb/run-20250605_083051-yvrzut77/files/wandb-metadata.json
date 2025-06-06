@@ -1,0 +1,39 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.11.5",
+  "startedAt":  "2025-06-05T03:00:51.508909Z",
+  "program":  "C:\\Users\\linka\\Desktop\\ML Projects\\emotion-recognition\\train.py",
+  "codePath":  "train.py",
+  "email":  "223cs1114@nitrkl.ac.in",
+  "root":  "C:\\Users\\linka\\Desktop\\ML Projects\\emotion-recognition",
+  "host":  "POOLS-LAPTOP",
+  "executable":  "C:\\Users\\linka\\Anaconda3\\python.exe",
+  "codePathLocal":  "train.py",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "gpu":  "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "999328911360",
+      "used":  "986783023104"
+    }
+  },
+  "memory":  {
+    "total":  "16371519488"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  16
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+      "memoryTotal":  "4294967296",
+      "cudaCores":  2560,
+      "architecture":  "Ampere",
+      "uuid":  "GPU-632010ba-cdee-b916-39f6-b63bf70457ac"
+    }
+  ],
+  "cudaVersion":  "12.9"
+}

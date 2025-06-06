@@ -1,0 +1,15 @@
+{"time":"2025-06-05T09:09:10.9983835+05:30","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"C:\\Users\\linka\\Desktop\\ML Projects\\emotion-recognition\\wandb\\run-20250605_090910-hpep0al9\\logs\\debug-core.log"}
+{"time":"2025-06-05T09:09:11.6036814+05:30","level":"INFO","msg":"stream: created new stream","id":"hpep0al9"}
+{"time":"2025-06-05T09:09:11.6036814+05:30","level":"INFO","msg":"stream: started","id":"hpep0al9"}
+{"time":"2025-06-05T09:09:11.6036814+05:30","level":"INFO","msg":"handler: started","stream_id":"hpep0al9"}
+{"time":"2025-06-05T09:09:11.6036814+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hpep0al9"}
+{"time":"2025-06-05T09:09:11.6036814+05:30","level":"INFO","msg":"sender: started","stream_id":"hpep0al9"}
+{"time":"2025-06-05T09:09:12.2066324+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-05T11:57:13.8309148+05:30","level":"INFO","msg":"stream: closing","id":"hpep0al9"}
+{"time":"2025-06-05T11:57:13.8309148+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-05T11:57:13.8309148+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-05T11:57:15.5283334+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-05T11:57:15.9839537+05:30","level":"INFO","msg":"sender: closed","stream_id":"hpep0al9"}
+{"time":"2025-06-05T11:57:15.9839537+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hpep0al9"}
+{"time":"2025-06-05T11:57:15.9839537+05:30","level":"INFO","msg":"handler: closed","stream_id":"hpep0al9"}
+{"time":"2025-06-05T11:57:15.9846632+05:30","level":"INFO","msg":"stream: closed","id":"hpep0al9"}
